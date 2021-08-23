@@ -1516,7 +1516,7 @@ a:focus {
 .contact {
     position: relative;
     width: 100%;
-    padding: 45px 0;
+    padding: 10vh;
 }
 
 .contact .contact-img {
